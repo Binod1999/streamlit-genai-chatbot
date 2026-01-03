@@ -1,4 +1,4 @@
-from python-dotenv import load_dotenv
+from dotenv import load_dotenv
 import streamlit as st
 from langchain_groq import ChatGroq
 
