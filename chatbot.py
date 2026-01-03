@@ -1,4 +1,4 @@
-#from dotenv import load_dotenv
+from /mount/src/streamlit-genai-chatbot/requirments/dotenv import load_dotenv
 import streamlit as st
 from langchain_groq import ChatGroq
 
